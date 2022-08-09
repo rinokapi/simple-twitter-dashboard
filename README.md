@@ -1,6 +1,6 @@
 # Simple twitter dashboard
 
-React native prototype app based on Twitter dashboard
+React native prototype app based on twitter dashboard
 
 ## 📱 Preview
 
