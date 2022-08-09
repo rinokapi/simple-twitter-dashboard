@@ -4,7 +4,7 @@ React native prototype app based on twitter dashboard
 
 ## 📱 Preview
 
-App function preview
+App function preview (gif image below)
 
 ![App demo](./assets/preview/twitter-view.gif)
 
